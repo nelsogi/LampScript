@@ -43,5 +43,5 @@ Ce script Bash automatise la mise à jour du système, l'installation et la conf
 1. **Cloner le dépôt GitHub**  
    Clonez le dépôt contenant le script :
    ```bash
-   git clone https://github.com/votre-utilisateur/votre-depot.git
-   cd votre-depot
+   git clone git@github.com:nelsogi/LampScript.git
+   cd LampScript
