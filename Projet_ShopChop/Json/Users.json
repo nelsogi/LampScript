@@ -1,0 +1,10 @@
+[
+    {
+        "idUser": 1,
+        "nomUser": "Admin",
+        "mailUser": "admin@gmail.com",
+        "passwordUser": "Super",
+        "panierUser": "",
+        "souhaitUser":""
+    }
+]

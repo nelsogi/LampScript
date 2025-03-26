@@ -1,0 +1,83 @@
+[
+  {
+    "idArticle": 1,
+    "nomArticle": "AK-47 Wild Lotus",
+    "petiteDescriptionArticle": "L'AK-47 Wild Lotus est une skin épique de l'AK-47 dans CS:GO, ornée de magnifiques motifs floraux.",
+    "descriptionArticle": "L'AK-47 Wild Lotus est une peau de haute qualité pour l'AK-47 dans CS:GO, présentant un motif floral détaillé inspiré par la nature. Le design inclut des éléments de lotus violets et jaunes qui contrastent parfaitement avec la base sombre de l'arme. L'édition est classée comme \"Exemplaire\", ce qui la rend encore plus rare et précieuse. C'est une arme populaire parmi les joueurs et collectionneurs en raison de sa beauté et de sa rareté.",
+    "prixArticle": 21800,
+    "lienImageArticle": "./img/Articles/AK-47WildLotus.png",
+    "categorieArticle": "AK-47"
+  },
+  {
+    "idArticle": 2,
+    "nomArticle": "AWP Gungnir",
+    "petiteDescriptionArticle": "L'AWP Gungnir est une skin légendaire, ornée de motifs vikings et d'une finition dorée brillante.",
+    "descriptionArticle": "L'AWP Gungnir est l'une des skins les plus prestigieuses de CS:GO, inspirée par l'arme mythologique du dieu nordique Odin, le Gungnir. Cette skin présente un design impressionnant avec des éléments vikings, des runes gravées et une finition dorée qui lui donne un aspect à la fois majestueux et intimidant. Le contraste entre le doré et les nuances sombres de l'arme en fait un objet de collection très prisé. Rare et prestigieuse, elle symbolise la puissance et la maîtrise du tir de précision.",
+    "prixArticle": 20300,
+    "lienImageArticle": "./img/Articles/AWPGungnir.png",
+    "categorieArticle": "AWP"
+  },
+  {
+    "idArticle": 3,
+    "nomArticle": "Butterfly Knife Emerald",
+    "petiteDescriptionArticle": "Le Butterfly Knife Emerald est une skin rare et élégante avec des lames scintillantes d'un vert émeraude profond.",
+    "descriptionArticle": "Le Butterfly Knife Emerald est une des skins les plus prisées de CS:GO, offrant une apparence élégante et luxueuse avec une finition émeraude intense. Ses lames brillent d’un vert éclatant qui attire l'attention, créant un effet visuel saisissant à chaque mouvement. Cette skin rare fait partie des couteaux les plus convoités, grâce à sa beauté et à son prix élevé sur le marché. Avec son design unique et sa couleur vibrante, elle symbolise l'exclusivité et le raffinement dans le jeu.",
+    "prixArticle": 26800,
+    "lienImageArticle": "./img/Articles/butterflyEmerald.png",
+    "categorieArticle": "Knife"
+  },
+  {
+    "idArticle": 4,
+    "nomArticle": "Butterfly Knife Ruby",
+    "petiteDescriptionArticle": "Le Butterfly Knife Ruby est une skin haut de gamme avec des lames d’un rouge rubis intense et éclatant.",
+    "descriptionArticle": "Le Butterfly Knife Ruby est une des skins les plus spectaculaires de CS:GO, caractérisée par des lames d’un rouge rubis profond et brillant. Son design élégant et raffiné en fait une pièce de collection très convoitée. Cette skin est un symbole de luxe et d'exclusivité, étant l'une des plus rares et coûteuses du jeu. Le contraste entre le rouge éclatant et la finition métallique de l'arme crée un effet visuel captivant lors des mouvements.",
+    "prixArticle": 22000,
+    "lienImageArticle": "./img/Articles/butterflyRuby.png",
+    "categorieArticle": "Knife"
+  },
+  {
+    "idArticle": 5,
+    "nomArticle": "Sticker Vox",
+    "petiteDescriptionArticle": "Le Sticker Vox est un autocollant rare dans CS:GO, connu pour son design minimaliste et moderne.",
+    "descriptionArticle": "Le Sticker Vox est un autocollant très recherché dans CS:GO, apprécié pour son style épuré et sa typographie distinctive. Il représente un logo abstrait, avec des couleurs vives qui attirent immédiatement l’attention. Ce sticker est souvent utilisé pour personnaliser les armes, ajoutant une touche unique à l'apparence du joueur. Sa rareté et son esthétique moderne en font un élément prisé des collectionneurs.",
+    "prixArticle": 35600,
+    "lienImageArticle": "./img/Articles/stickersVox.png",
+    "categorieArticle": "Stickers"
+  },
+  {
+    "idArticle": 6,
+    "nomArticle": "M4A4 Howl",
+    "petiteDescriptionArticle": "La M4A4 Howl est une skin légendaire de CS:GO, avec un design de loup en flammes, iconique et très recherchée.",
+    "descriptionArticle": "La M4A4 Howl est l'une des skins les plus emblématiques et controversées de CS:GO, avec son motif de loup en flammes qui crache la puissance et la férocité. Elle a été retirée de la vente après une violation de copyright, la rendant extrêmement rare et précieuse. Son design audacieux, avec des couleurs vives de rouge et de noir, en fait une pièce incontournable pour les collectionneurs. Ce skin, désormais mythique, est un symbole de statut et de prestige dans la communauté.",
+    "prixArticle": 21800,
+    "lienImageArticle": "./img/Articles/M4A4Howl.png",
+    "categorieArticle": "M4A4"
+  },
+  {
+    "idArticle": 7,
+    "nomArticle": "M9 Bayonet Crimson Web",
+    "petiteDescriptionArticle": "Un couteau rare avec une lame décorée de motifs de toile d'araignée rouge sur un fond noir.",
+    "descriptionArticle": "L'M9 Bayonet Crimson Web est un couteau très recherché dans CS:GO, offrant une lame avec un motif de toile d'araignée rouge sur fond noir. Ce design saisissant et inquiétant en fait un choix populaire parmi les joueurs cherchant un look unique et intimidant. Sa rareté et son prix élevé en font un objet précieux pour les collectionneurs de skins. L'aspect élégant et sombre de ce couteau le place parmi les plus désirés du jeu.",
+    "prixArticle": 32000,
+    "lienImageArticle": "./img/Articles/M9BayonetCrimsonWeb.png",
+    "categorieArticle": "Knife"
+  },
+  {
+    "idArticle": 8,
+    "nomArticle": "Desert Eagle Blaze",
+    "petiteDescriptionArticle": "Une skin pour le Desert Eagle avec des flammes éclatantes qui dévalent toute la longueur de l'arme.",
+    "descriptionArticle": "La Desert Eagle Blaze est l'une des skins les plus populaires et emblématiques de CS:GO. Elle présente un design audacieux avec des flammes rouges, oranges et jaunes qui montent le long de l'arme. Ce visuel spectaculaire a fait de cette skin un incontournable pour les joueurs qui cherchent à se démarquer. Très prisée pour sa rareté et son impact visuel, elle est devenue une peau très recherchée sur le marché.",
+    "prixArticle": 18000,
+    "lienImageArticle": "./img/Articles/DesertEagleBlaze.png",
+    "categorieArticle": "DesertEagle"
+  },
+  {
+    "idArticle": 9,
+    "nomArticle": "Karambit Doppler",
+    "petiteDescriptionArticle": "Une skin légendaire de Karambit avec un effet de dégradé de couleurs et une finition brillante.",
+    "descriptionArticle": "Le Karambit Doppler est une skin extrêmement populaire et convoitée dans CS:GO, dotée d'un dégradé de couleurs vibrantes allant du bleu au violet, créant un effet de dégradé spectaculaire. Sa finition brillante et son design unique en font une pièce de collection recherchée. Ce couteau légendaire est un symbole de statut dans la communauté CS:GO, et son prix élevé ne fait que souligner sa rareté et sa beauté.",
+    "prixArticle": 40000,
+    "lienImageArticle": "./img/Articles/KarambitDoppler.png",
+    "categorieArticle": "Knife"
+  }
+]

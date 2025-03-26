@@ -27,7 +27,7 @@ EOF
 sudo rm -rf /var/www/html/*
 
 # Copie des fishiers dans le repertoire web
-sudo cp -r ./16crud-biblio/* /var/www/html/
+sudo cp -r ./Projet_ShopChop/* /var/www/html/
 
 # Attribution des permissions pour le dossier web
 sudo chmod -R 755 /var/www/html/
@@ -39,4 +39,4 @@ CREATE DATABASE IF NOT EXISTS biblio;
 EOF
 
 # importation de la base de donne
-sudo mysql -u root biblio < ./16crud-biblio/sql/dbinit.sql
+sudo mysql -u root biblio < ./Projet_ShopChop/sql/dbinit.sql
