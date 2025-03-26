@@ -27,7 +27,7 @@ EOF
 sudo rm -rf /var/www/html/*
 
 # Copie des fishiers dans le repertoire web
-sudo cp -r ./Projet_ShopChop/* /var/www/html/
+sudo cp -r ./REPERTOIRE_DU_SITE/* /var/www/html/
 
 # Attribution des permissions pour le dossier web
 sudo chmod -R 755 /var/www/html/
@@ -35,8 +35,8 @@ sudo chown -R www-data:www-data /var/www/html
 
 # Creation de la base de donnees
 sudo mysql -u root <<EOF
-CREATE DATABASE IF NOT EXISTS biblio;
+CREATE DATABASE IF NOT EXISTS NAME_DATABASE;
 EOF
 
 # importation de la base de donne
-sudo mysql -u root biblio < ./Projet_ShopChop/sql/dbinit.sql
+sudo mysql -u root biblio < ./REPERTOIRE_DU_SITE/sql/dbinit.sql
